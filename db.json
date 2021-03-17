@@ -1,0 +1,60 @@
+{
+    "status": "success",
+    "status code": 200,
+    "data": [
+        {
+            "_id": {
+                "$oid": "6051c2cf1cfdcee5e615f9fd"
+            },
+            "type": "product_category",
+            "category_name": "Pickles",
+            "category_description": "Pickles Varietes",
+            "category_id": "b8d765d155d27e6c73260a8556cbbe0f"
+        },
+        {
+            "_id": {
+                "$oid": "6051c5b01cfdcee5e615f9fe"
+            },
+            "type": "product_category",
+            "category_name": "Masala",
+            "category_id": "CAT23423424",
+            "category_description": "Masala Varietes"
+        },
+        {
+            "_id": {
+                "$oid": "6051c5ed1cfdcee5e615f9ff"
+            },
+            "type": "product_category",
+            "category_name": "Spices",
+            "category_id": "CAT2342344",
+            "category_description": "Spices Varietes"
+        },
+        {
+            "_id": {
+                "$oid": "6051c62b1cfdcee5e615fa00"
+            },
+            "type": "product_category",
+            "category_name": "Dry Fruits",
+            "category_id": "CAT2342342",
+            "category_description": "Dry Fruits Varietes"
+        },
+        {
+            "_id": {
+                "$oid": "6051c6411cfdcee5e615fa01"
+            },
+            "type": "product_category",
+            "category_name": "Snacks",
+            "category_id": "CAT32424564",
+            "category_description": "Snacks Varietes"
+        },
+        {
+            "_id": {
+                "$oid": "6051c6521cfdcee5e615fa02"
+            },
+            "type": "product_category",
+            "category_name": "Sweets",
+            "category_id": "CAT324245634",
+            "category_description": "Sweets Varietes"
+        }
+    ]
+}
